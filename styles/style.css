@@ -1,0 +1,42 @@
+h1 {
+  color: red;
+  font-size: 55px;
+  font-family: 'Girassol', cursive;
+  text-align: center;
+  text-shadow: 3px 3px 1px black;
+}
+h2 {
+  text-align: center;
+    font-family: 'Hind', sans-serif;
+}
+.dog-names {
+  color: rgb(72, 255, 0);
+  font-size: 25px;
+  font-family: 'Special Elite', cursive;
+  text-shadow: 3px 3px 1px black;
+}
+li {
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+}
+img {
+  height: 300px;
+  width: 500px;
+  object-fit: cover;
+}
+.header-image {
+  display: block;
+  padding-inline-start: 50px;
+  height: auto;
+  width: 500px;
+}
+html {
+  background-color: rgb(51, 222, 245);
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: rgb(238, 120, 218);
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
